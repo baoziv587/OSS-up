@@ -29,4 +29,5 @@ $ oss-up up
 ```
 
 # Todo
-More generic, not just VUE-based projects
+* More generic, not just VUE-based projects
+* Webpack support
