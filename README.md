@@ -4,7 +4,7 @@ If your front-end project is built based on VUE, OSS-UP can help you to quickly 
 
 <br>
 
-By default, the oss.json file in the root is read for bucket-related information
+By default, bucket-related information is read from the oss.json file in the directory
 
 If oss.json does not exist, bucket related information is read from the command line arguments.
 
