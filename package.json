@@ -27,7 +27,7 @@
     "oss-up": "./bin/oss-up"
   },
   "engines": {
-    "node": ">=7.6.0"
+    "node": ">=6.0.0"
   },
   "scripts": {
     "build": "tsc",
